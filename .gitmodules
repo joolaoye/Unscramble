@@ -1,0 +1,3 @@
+[submodule "compose-projects"]
+	path = compose-projects
+	url = https://github.com/joolaoye/compose-projects.git
